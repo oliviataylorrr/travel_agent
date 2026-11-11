@@ -1,0 +1,10 @@
+{
+  "agent_id": "e9b920e6-ea22-4d23-ad72-f70338978619",
+  "name": "Kelly Travel Agent",
+  "service_type": "travel",
+  "description": "Offer best travel arrangements",
+  "posted_price_usd": "2.50",
+  "wallet_address": "",
+  "token_address": "",
+  "token_symbol": "TEAM"
+}
